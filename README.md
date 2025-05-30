@@ -40,9 +40,7 @@ This light-following system can be applied in:
 - 🎯 **Sensor-actuator integration projects**
 - 🔬 **Interactive art installations**
 
-## 📸 Demo
 
-<!-- Optionally embed a video or image of the project in action -->
-![servo-tracking-demo](demo.gif)
+
 
 
